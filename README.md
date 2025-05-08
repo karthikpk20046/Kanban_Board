@@ -1,11 +1,5 @@
-# Kanban_Board
+# Vue 3 + TypeScript + Vite
 
-## Feel free to delete this file and replace it with your own content.
+This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Repository Initialization Notice
-
-This repository was automatically initialized by the Bolt to GitHub extension.
-
-**Auto-Generated Repository**
-- Created to ensure a valid Git repository structure
-- Serves as an initial commit point for your project
+Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
