@@ -1,5 +1,26 @@
-# Vue 3 + TypeScript + Vite
+# Kanban Board 🗂️
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A modern Kanban Board built with **Vue 3**, **Vite**, **Pinia**, and **TypeScript**. This project lets users create, drag, and manage task cards across multiple columns — ideal for tracking work or personal tasks visually.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 🚀 Features
+
+- Drag and drop task cards using `vuedraggable`
+- Pinia for state management
+- Modular Vue components
+- TypeScript support
+- Vite for lightning-fast development
+
+## 🛠️ Tech Stack
+
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Pinia](https://pinia.vuejs.org/)
+- [vuedraggable](https://github.com/SortableJS/vue.draggable.next)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## 🔧 Getting Started
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/karthikpk20046/Kanban_Board.git
+   cd Kanban_Board
